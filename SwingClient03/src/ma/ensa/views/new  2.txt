@@ -1,0 +1,21 @@
+    //PdfPTable table2 = new PdfPTable(nomColonneTable2.Length);
+            //table2.TotalWidth = 100;
+
+
+            // table.WriteSelectedRows(0, -2, document.Left+100, document.Bottom+100, cb);
+
+            //FontFactory.RegisterDirectories();
+            //iTextSharp.text.Font fontNormal = new iTextSharp.text.Font(FontFactory.GetFont("Arial", 2, iTextSharp.text.Font.NORMAL));
+
+            //iTextSharp.text.Paragraph p2 = new Paragraph("");
+
+            for (int i = 0; i < nomColonneTable2.Length; i++)
+            {
+              //  p2 = new Paragraph(nomColonneTable2[i]);
+                //p2.Font.Size = 8;
+                //table.AddCell(p2);
+
+            }
+            
+            
+            //table2.WriteSelectedRows(0, -1, document.Right + 0, document.Top - 180, cb);
